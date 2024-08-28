@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
           target="_blank"
           rel="noopener noreferrer"
           >
-             Resume
+             My Resume
           </a>
         </NavBtn>
         <Bars onClick={toggle} />

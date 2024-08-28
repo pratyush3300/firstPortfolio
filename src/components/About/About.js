@@ -29,7 +29,7 @@ function About() {
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            I am interested in UI/UX designing and Web dev. Passionate about learning new coding languages. Collaboration is key in my approach, and I enjoy working with cross-functional teams to create solutions that not only meet technical requirements but also enhance user experience and deliver real value.
+            I am interested in UI/UX designing and Web dev. Passionate about learning different coding languages. Collaboration is key of my approach, and I enjoy working with cross-functional teams to create solutions that not only meet technical requirements but also enhance user experience and deliver real value.
             I love to travel and explore different places. I like to treat people with respect and enjoy helping them.
             </ScrollAnimation>
 

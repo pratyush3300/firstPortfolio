@@ -9,7 +9,7 @@ export const ProjectList = [
     description:
       "Cryptobase is your ultimate destination for all things Bitcoin.",
     tech_stack: ["Bootstrap"],
-    demo_url:"https://pratyush3300.github.io/bitcoin/",
+    demo_url:"https://pratyush3300.github.io/cyrptoBase/",
 
   },
 
@@ -19,14 +19,14 @@ export const ProjectList = [
     description:
       "Enjoy a user-friendly interface that makes finding your favorite recipes, restaurants, and food trends a breeze.",
     tech_stack: ["Bootstrap"],
-    demo_url:"",
+    demo_url:"https://pratyush3300.github.io/foodieFleet/",
 
   },
 
   {
     img: "/design1.png",
     title: "Mining Mate",
-    demo_url:"https://pratyush3300.github.io/bitcoin/",
+    demo_url:"",
     description:
       "I took part in Smart India Hackathon recently with my team. My role in the team was to make UI design for our project which was a chatbot for the Minisrty of Coal.",
     tech_stack: ["Figma"],

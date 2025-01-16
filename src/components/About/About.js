@@ -1,4 +1,4 @@
-  import React from "react";
+import React from "react";
 import { stackList } from "../../data/ProjectData";
 import {
   Image,
@@ -9,6 +9,7 @@ import {
   ContactWrapper,
 } from "./AboutElements";
 import ScrollAnimation from "react-animate-on-scroll";
+
 function About() {
   return (
     <ContactWrapper id="about">
@@ -24,7 +25,6 @@ function About() {
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
             Namaste! My name is <strong>Pratyush Prasoon</strong> I am from Patna, Bihar. I have completed my 10+2 education from Palamu, Jharkhand. And now I'm pursuing my B.tech in Information Technology at KIIT University, Bhubaneswar.
-
             </ScrollAnimation>
 
             <br /><br />

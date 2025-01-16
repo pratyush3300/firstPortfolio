@@ -53,7 +53,6 @@ const SocialContainer = styled.div`
 `;
 function FixSocialIcon() {
   return (
-    // renders a set of social icons within a Container
     <SocialContainer>   
       <ScrollAnimation animateIn="fadeIn" animateOnce={true}>
         <ul>

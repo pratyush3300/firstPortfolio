@@ -1,4 +1,3 @@
-// Project List
 export const ProjectList = [
   {
     img: "/design1.png",
@@ -33,7 +32,6 @@ export const ProjectList = [
 ];
 
 // My Skills
-
 export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
@@ -46,6 +44,10 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
     name: "JavaScript",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
+    name: "Bootstrap",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
@@ -68,7 +70,7 @@ export const stackList = [
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
-    name: "VS Code",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+    name: "MySQL",
   },
 ];

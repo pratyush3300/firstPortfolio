@@ -28,7 +28,7 @@ export const ProjectList = [
     title: "Mining Mate",
     demo_url:"",
     description:
-      "I took part in Smart India Hackathon recently with my team. My role in the team was to make UI design for our project which was a chatbot for the Minisrty of Coal.",
+      "I had participated in Smart India Hackathon with my team members and we built a Chatbot App for the Minisrty of Coal. This is the design of the same",
     tech_stack: ["Figma"],
     demo_url:"",
 

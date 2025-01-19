@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hey! My name is <strong>Pratyush Prasoon</strong>. I am from Patna, Bihar. I have completed my 10+2 education from Palamu, Jharkhand. And now I'm pursuing my B.tech in Information Technology at KIIT University, Bhubaneswar.
+            Hey! My name is <strong>Pratyush Prasoon</strong>. I am from Patna, Bihar. I have completed my intermediate education from Palamu, Jharkhand. Currently, I'm pursuing my Bachleor of Technology in Information Technology at KIIT University, Bhubaneswar.
             </ScrollAnimation>
 
             <br /><br />

@@ -14,6 +14,16 @@ export const ProjectList = [
   },
 
   {
+    img: "/design7.png",
+    title: "Jingle Bell Site",
+    description:
+      "The site incorporates festive elements that capture the spirit of the holiday season.",
+    tech_stack: ["JavaScript"],
+    demo_url:"https://pratyush3300.github.io/Christmas/",
+
+  },
+  
+  {
     img: "/design5.png",
     title: "FoodieFleet",
     description:

@@ -21,7 +21,7 @@ const Header = ({ toggle }) => {
         </NavMenu>
         <NavBtn>
           <a className="btn PrimaryBtn" 
-          href="https://www.linkedin.com/in/pratyush-prasoon-a6a8a9267/" 
+          href="https://drive.google.com/file/d/1WFKaJf-p9YTNqwHPjQGm8eCV4eNaVvyI/view?usp=sharing" 
           target="_blank"
           rel="noopener noreferrer"
           >

@@ -30,7 +30,7 @@ View Demo:- ([https://your-portfolio-link.com](https://myportfolio-snowy-seven.v
 - Implementing smooth animations and transitions for better user experience.
 - Completing the project within a short timeline for AISoc society selection.
 
-📬 Contact Me:
+## 📬 Contact Me:
 Feel free to connect with me:
 
 My LinkedIn: ([https://www.linkedin.com/in/pratyush-prasoon-a6a8a9267/])

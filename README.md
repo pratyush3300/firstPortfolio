@@ -1,6 +1,6 @@
 # 💻 My First Portfolio Site
 
-This is my first personal portfolio website built using **React.js**. The purpose behind creating this site was to showcase my web development skills and stand out during the selection process for a **web developer position in the AISoc society** at my college. 
+This is my first personal portfolio website built using **React.js**. The purpose behind creating this site was to showcase my web development skills and stand out during the selection process for a **web developer position in the AISoC society** at my college. 
 The site highlights my projects, skills, and background in a clean & responsive layout, ensuring seamless navigation across devices.
 
 ## 🚀 Live Demo:

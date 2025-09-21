@@ -29,8 +29,8 @@ function About() {
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            I am interested in UI/UX designing and Web dev. Passionate about learning different coding languages. Collaboration is key of my approach, and I enjoy working with cross-functional teams to create solutions that not only meet technical requirements but also enhance user experience and deliver real value.
-            I love to travel and explore different places. I like to treat people with respect and enjoy helping them.
+            An articulate and relentless individual with strong problem-solving and interpersonal skills. Quick learner with a drive to explore new technologies. Passionate about learning different coding languages. Collaboration is key of my approach, and I enjoy working with cross-functional teams to create solutions that not only meet technical requirements but also enhance user experience and deliver real value.
+            My hobbies are playing sports and travelling to different places. I like to treat people with respect and enjoy helping them.
             </ScrollAnimation>
 
             <br /><br />
